@@ -15,6 +15,7 @@ public class UseHashMap {
         for (Map.Entry<String, String> iterate: map.entrySet()) {
             System.out.println(iterate.getKey()+ "--->" + iterate.getValue());
         }
+        System.out.println("\n");
 
         Map<Integer, String> list = new LinkedHashMap<Integer, String>();
 
