@@ -4,6 +4,7 @@ public class Variables {
 
     //initialize variables to get and set the values
 
+    
     private String name;
     private String location;
     private int idNumber;
